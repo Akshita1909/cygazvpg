@@ -6,7 +6,7 @@ A small web app for an energy buyer who has to buy UK day-ahead power. It shows 
 
 - Live app: https://cygazvpg.vercel.app/
 - API health check: https://project-tau-seven-51.vercel.app/api/health
-- Demo video (unlisted YouTube): VIDEO_LINK_HERE
+- Demo video (unlisted YouTube): https://youtu.be/lJlibISP4fM
 
 ## How to start
 
